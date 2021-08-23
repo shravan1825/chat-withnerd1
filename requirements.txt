@@ -43,7 +43,6 @@ Pillow==8.1.2
 Pint==0.17
 pipwin==0.5.1
 playsound==1.2.2
-PyAudio @ file:///C:/Users/shrav/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 PyGetWindow==0.0.9
 pyjsparser==2.7.1
